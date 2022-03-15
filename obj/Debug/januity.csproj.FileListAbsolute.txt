@@ -1,0 +1,13 @@
+E:\aishwariya_c#\januity\bin\Debug\januity.exe.config
+E:\aishwariya_c#\januity\bin\Debug\januity.exe
+E:\aishwariya_c#\januity\bin\Debug\januity.pdb
+E:\aishwariya_c#\januity\obj\Debug\januity.csproj.AssemblyReference.cache
+E:\aishwariya_c#\januity\obj\Debug\januity.csproj.SuggestedBindingRedirects.cache
+E:\aishwariya_c#\januity\obj\Debug\januity.Form1.resources
+E:\aishwariya_c#\januity\obj\Debug\januity.Properties.Resources.resources
+E:\aishwariya_c#\januity\obj\Debug\januity.csproj.GenerateResource.cache
+E:\aishwariya_c#\januity\obj\Debug\januity.csproj.CoreCompileInputs.cache
+E:\aishwariya_c#\januity\obj\Debug\januity.exe
+E:\aishwariya_c#\januity\obj\Debug\januity.pdb
+E:\aishwariya_c#\januity\obj\Debug\januity.Form2.resources
+E:\aishwariya_c#\januity\obj\Debug\januity.Form3.resources
